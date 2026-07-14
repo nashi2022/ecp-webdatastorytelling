@@ -228,6 +228,8 @@
     "disclaimer": "This is an independent data-storytelling experience built with publicly available ECP impact data.",
     "visit": "Visit ecprogram.org",
     "library": "Explore the free library",
-    "reducedMotion": "Reduce motion"
+    "reducedMotion": "Reduce motion",
+    "builtBy": "Built by",
+    "studio": "Ordinal Studio"
   }
 }

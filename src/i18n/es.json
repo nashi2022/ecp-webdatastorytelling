@@ -228,6 +228,8 @@
     "disclaimer": "Esta es una experiencia independiente de data storytelling construida con datos de impacto públicos de ECP.",
     "visit": "Visita ecprogram.org",
     "library": "Explora la biblioteca gratuita",
-    "reducedMotion": "Reducir movimiento"
+    "reducedMotion": "Reducir movimiento",
+    "builtBy": "Hecho por",
+    "studio": "Ordinal Studio"
   }
 }
