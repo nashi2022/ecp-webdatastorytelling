@@ -7,3 +7,6 @@ dist
 
 # source reports (large PDFs, publicly available at ecprogram.org)
 Info-ecp/
+
+# Local Netlify folder
+.netlify
