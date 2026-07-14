@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "langName": "Español",
+    "switchTo": "EN"
+  },
+  "nav": {
+    "donate": "Donar",
+    "chapters": {
+      "hero": "Inicio",
+      "gap": "La brecha",
+      "spark": "La chispa",
+      "world": "77 países",
+      "proof": "La prueba",
+      "ripple": "El efecto",
+      "voices": "Voces",
+      "stewardship": "Transparencia",
+      "donateCta": "Tu capítulo"
+    }
+  },
+  "hero": {
+    "kicker": "Una historia interactiva de impacto del Educated Choices Program",
+    "title1": "Cada día,",
+    "title2": "un estudiante decide",
+    "title3": "qué comer.",
+    "lead": "A la mayoría nunca le enseñaron qué produce esa decisión: en su cuerpo, en el planeta y en los animales con quienes lo compartimos. Esta es la historia de lo que pasa cuando alguien por fin se lo enseña.",
+    "counterLabel": "estudiantes alcanzados hasta hoy",
+    "scrollHint": "Desplázate para comenzar",
+    "eachDot": "Cada partícula en esta pantalla representa a estudiantes que vieron una lección de ECP."
+  },
+  "gap": {
+    "kicker": "Capítulo 1 — La brecha",
+    "title": "Miles de decisiones, cero lecciones.",
+    "step1": "Antes de graduarse, una persona joven tomará unas 15.000 decisiones sobre comida: desayuno, almuerzo, meriendas, cena. Todos los días.",
+    "step2": "Sin embargo, el impacto de la comida en la salud, el clima y los animales casi no se enseña en la escuela. En su lugar: marketing, hábito y una marea creciente de desinformación en línea.",
+    "step3": "El resultado es una brecha entre lo que las personas quieren saber sobre su comida y los datos confiables que tienen a su alcance.",
+    "step4": "Cerrar esa brecha a tiempo, con ciencia y sin juzgar, es la misión completa del Educated Choices Program.",
+    "trayCaption": "Una bandeja de almuerzo. Una decisión. Multiplicada por millones de estudiantes, todos los días."
+  },
+  "spark": {
+    "kicker": "Capítulo 2 — La chispa",
+    "title": "Empezó con una persona, en un aula.",
+    "intro": "En 2015, Lorena Mucke comenzó a dar presentaciones de educación alimentaria en escuelas de Atlanta. Sin oficina. Sin equipo. Con una convicción simple: la educación es la herramienta más poderosa para el cambio.",
+    "chartLabel": "Estudiantes alcanzados (acumulado)",
+    "chartNote": "Trayectoria reconstruida a partir de hitos reportados (cifras de 2024 y 2026 según reportes de ECP).",
+    "milestones": {
+      "founding": {
+        "year": "2015",
+        "title": "La primera aula",
+        "text": "Lorena Mucke empieza a presentar en escuelas de Atlanta, una clase a la vez."
+      },
+      "global": {
+        "year": "2020",
+        "title": "Alcance global",
+        "text": "Las presentaciones digitales gratuitas llevan el programa mucho más allá de Georgia: sin costo, sin barreras, solo con acceso a internet."
+      },
+      "library": {
+        "year": "2024",
+        "title": "Se abre la biblioteca",
+        "text": "Se lanza una videoteca a demanda que pone cada paquete educativo a un clic de distancia, 24/7."
+      },
+      "study": {
+        "year": "2024",
+        "title": "La ciencia revisa el trabajo",
+        "text": "Investigadores de las universidades de Edimburgo y Cambridge ponen a prueba, de forma independiente, si las presentaciones de ECP cambian decisiones reales sobre comida."
+      },
+      "decade": {
+        "year": "2025",
+        "title": "Una década de transformación",
+        "text": "Diez años después: más de 21 paquetes educativos, expansión en español y una nueva serie para estudiantes de 8 a 11 años."
+      },
+      "today": {
+        "year": "Hoy",
+        "title": "3,79 millones y contando",
+        "text": "De una persona a un programa global: sigue siendo gratuito, científico y en crecimiento."
+      }
+    },
+    "statPackages": "paquetes educativos",
+    "statPackagesNote": "videos, planes de clase, cuestionarios y más — siempre gratis",
+    "statLanguages": "idiomas",
+    "statLanguagesNote": "narración y subtítulos, del español al hindi"
+  },
+  "world": {
+    "kicker": "Capítulo 3 — Un mundo de aulas",
+    "title": "De Atlanta a 77 países y territorios.",
+    "step1": "Primero se extendió por las Américas: de Estados Unidos y Canadá hacia México, Centroamérica y casi todos los países de Sudamérica.",
+    "step2": "Luego Europa y África: aulas en España, Polonia y Ucrania; comunidades en Kenia, Nigeria y Gambia.",
+    "step3": "Después Asia y Oceanía: India, Japón, Indonesia, Australia. Solo en el primer trimestre de 2026, Eslovaquia, Líbano y Grecia se convirtieron en los países #72, #73 y #74.",
+    "step4": "Hoy, los materiales de ECP se usan en 77 países y territorios, en inglés y español, con subtítulos en más de 10 idiomas. Cualquier persona, en cualquier lugar, puede reservarlos gratis.",
+    "mapCountLabel": "países y territorios alcanzados",
+    "hoverHint": "Pasa el cursor sobre un país iluminado"
+  },
+  "proof": {
+    "kicker": "Capítulo 4 — ¿Pero funciona?",
+    "title": "No te fíes de su palabra. Fíate de los datos.",
+    "expIntro": "En 2024, investigadores realizaron un experimento en condiciones reales en la Universidad de Edimburgo.",
+    "expStep1": "Los estudiantes asistieron a una presentación. La mitad vio \"The Planet and Our Plates\" de ECP. La otra mitad —el grupo de control— vio una presentación que no tenía nada que ver con comida.",
+    "expStep2": "Después, cada estudiante recibió un vale para una comida gratis en un café local. Lo que no sabían: sus elecciones de comida estaban siendo registradas.",
+    "expStep3": "Los estudiantes que vieron la presentación de ECP eligieron comidas sin carne casi 2,5 veces más. La diferencia fue estadísticamente significativa.",
+    "expChartTitle": "¿Quiénes eligieron la comida sin carne?",
+    "expTreatment": "Vieron la presentación de ECP",
+    "expControl": "Grupo de control",
+    "expSource": "Estudio de elección real de alimentos de Bryant Research en la Universidad de Edimburgo, n=39. Un estudio paralelo en la Universidad de Cambridge también encontró efectos estadísticamente significativos.",
+    "peerReviewed": "Revisado por pares y probado de forma independiente",
+    "peerReviewedNote": "Universidades de Edimburgo y Cambridge",
+    "gaugeTitle": "Y no es un caso aislado.",
+    "gaugeLabel": "de los espectadores tiene la intención de hacer cambios hacia una dieta más basada en plantas después de ver los materiales",
+    "gaugeNote": "n={{n}} encuestados entre feb 2024 y mar 2026 · excluye a quienes ya comen 100% basado en plantas",
+    "multiplierLabel": "más participantes eligieron opciones basadas en plantas tras usar materiales de ECP, según un estudio reciente",
+    "whyTitle": "¿Qué mueve a las personas a cambiar?",
+    "whyIntro": "Cuando los espectadores explican su motivación, tres razones lideran — los mismos tres pilares del sello de ECP: la salud personal, el planeta y los animales.",
+    "motivators": {
+      "title": "Principales motivadores del cambio de dieta",
+      "health": "Mi salud",
+      "environment": "El medio ambiente",
+      "animals": "Los animales",
+      "foodSafety": "Seguridad alimentaria",
+      "savingMoney": "Ahorrar dinero",
+      "taste": "Preferencia de sabor",
+      "foodSecurity": "Seguridad alimentaria global"
+    },
+    "barriers": {
+      "title": "…y las barreras que persisten",
+      "taste": "Me gusta el sabor de la carne",
+      "family": "Mi familia come carne",
+      "cost": "Lo basado en plantas parece caro",
+      "peers": "Mis amistades comen carne",
+      "none": "Sin barreras"
+    },
+    "barriersNote": "Encuesta a 371 espectadores, Reporte Anual 2024. Conocer las barreras es la base con la que ECP diseña lo que sigue."
+  },
+  "ripple": {
+    "kicker": "Capítulo 5 — El efecto",
+    "title": "Un plato parece poco. Millones no lo son.",
+    "intro": "Cuando el 90% de 3,7 millones de estudiantes tiene la intención de comer distinto, las ondas llegan hasta la atmósfera.",
+    "counterLabel": "kg de emisiones de CO₂ evitadas cada año",
+    "counterNote": "Estimación basada en estadísticas de impacto dietario de Scarborough et al., 2014",
+    "equivIntro": "Cada año, eso equivale aproximadamente a…",
+    "equivCars": "autos fuera de circulación",
+    "equivFlights": "vuelos transatlánticos de ida y vuelta que no se realizaron",
+    "equivTrees": "árboles maduros absorbiendo CO₂",
+    "closing": "No se detuvo ninguna flota ni se plantó ningún bosque. Las personas simplemente aprendieron — y eligieron distinto."
+  },
+  "voices": {
+    "kicker": "Capítulo 6 — Voces",
+    "title": "Seis meses después, todavía lo recuerdan.",
+    "intro": "ECP hace seguimiento a sus estudiantes mucho después de que se encienden las luces del aula. Esto es lo que dicen.",
+    "quotes": {
+      "power": {
+        "text": "Reencuadra el poder personal. En lugar de sentirte abrumado por los problemas globales, de repente ves que tus hábitos diarios realmente importan. No te vas con culpa — te vas con opciones.",
+        "who": "Estudiante, más de 6 meses después"
+      },
+      "pollution": {
+        "text": "No sabía que criar animales para comida genera contaminación. Ahora también sé que la comida puede ayudar o dañar mi cuerpo.",
+        "who": "Estudiante"
+      },
+      "lessMeat": {
+        "text": "Algo que cambié a raíz de lo que vi es comer menos carne y probar más alimentos basados en plantas.",
+        "who": "Estudiante, encuesta de seguimiento"
+      },
+      "wholefoods": {
+        "text": "¡Algo que cambié fueron los ALIMENTOS INTEGRALES! Consumir tantos alimentos integrales como sea posible.",
+        "who": "Estudiante, encuesta de seguimiento"
+      },
+      "redMeat": {
+        "text": "Empecé a reducir la carne roja y a enfocarme más en frutas y verduras.",
+        "who": "Estudiante, encuesta de seguimiento"
+      },
+      "teacher": {
+        "text": "El material me pareció muy profesional y visualmente atractivo. Los estudiantes estuvieron atentos y fue una lección valiosa sobre la calidad de la comida.",
+        "who": "Docente"
+      }
+    }
+  },
+  "stewardship": {
+    "kicker": "Capítulo 7 — Transparencia radical",
+    "title": "A dónde va realmente cada dólar donado.",
+    "intro": "Un equipo 100% remoto de solo 11 personas sostiene un programa que alcanza a millones — y abre sus libros para demostrarlo.",
+    "donutTitle": "Gastos 2024 por categoría",
+    "categories": {
+      "education": "Programas educativos",
+      "operations": "Operaciones",
+      "fundraising": "Recaudación de fondos",
+      "livingLab": "Investigación Living Lab"
+    },
+    "centsLabel": "de cada dólar gastado en 2024 fue directamente a programas educativos",
+    "teamLabel": "personas a tiempo completo, 100% remoto",
+    "costLabel": "≈ costo de alcanzar a un estudiante (gastos T1 2026 ÷ estudiantes reportados)",
+    "badgesTitle": "Con la confianza de quienes evalúan a las ONG",
+    "badges": {
+      "charityNav": "Charity Navigator — 4 estrellas",
+      "candid": "Candid / GuideStar — Platino",
+      "keeling": "Laureada del Keeling Curve Prize",
+      "bestCharities": "America's Best Charities — Sello de Excelencia",
+      "teacherPick": "We Are Teachers — Teacher Pick"
+    }
+  },
+  "donate": {
+    "kicker": "Capítulo 8 — Tu capítulo",
+    "title": "Los próximos 3,7 millones de estudiantes están esperando.",
+    "lead": "ECP se financia enteramente con donaciones y subvenciones privadas. Cada paquete educativo es gratuito para cada aula del planeta — porque personas como tú lo hacen posible.",
+    "tiersTitle": "En qué se traduce tu apoyo",
+    "tierNote": "Estimaciones basadas en los gastos del T1 2026 (~${{cost}} por estudiante alcanzado). Toda contribución, del tamaño que sea, ayuda.",
+    "tiers": {
+      "t1": {
+        "amount": "$27",
+        "label": "lleva su primera lección de impacto alimentario a un aula completa de 30 estudiantes"
+      },
+      "t2": {
+        "amount": "$90",
+        "label": "alcanza 10 aulas — unos 300 estudiantes — con educación alimentaria basada en ciencia"
+      },
+      "t3": {
+        "amount": "$450",
+        "label": "cubre a los estudiantes de una escuela entera, con planes de clase en dos idiomas"
+      }
+    },
+    "ctaDonate": "Donar a ECP",
+    "ctaReport": "Leer el reporte de impacto completo",
+    "ctaShare": "Compartir esta historia",
+    "shareCopied": "¡Enlace copiado!",
+    "closing1": "Hace diez años, esta historia era una persona y un aula.",
+    "closing2": "El próximo capítulo lo escribe quien convierte el conocimiento en acción.",
+    "closing3": "Puedes ser tú. Ahora mismo.",
+    "orgLine": "Educated Choices Program es una organización sin fines de lucro 501(c)(3). EIN: 47-5137685."
+  },
+  "footer": {
+    "sources": "Todas las cifras provienen del Reporte Anual 2024, el Reporte de Impacto 2025, el Reporte T1 2026 de ECP y ecprogram.org.",
+    "disclaimer": "Esta es una experiencia independiente de data storytelling construida con datos de impacto públicos de ECP.",
+    "visit": "Visita ecprogram.org",
+    "library": "Explora la biblioteca gratuita",
+    "reducedMotion": "Reducir movimiento"
+  }
+}

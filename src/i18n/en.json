@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "langName": "English",
+    "switchTo": "ES"
+  },
+  "nav": {
+    "donate": "Donate",
+    "chapters": {
+      "hero": "Start",
+      "gap": "The Gap",
+      "spark": "The Spark",
+      "world": "77 Countries",
+      "proof": "The Proof",
+      "ripple": "The Ripple",
+      "voices": "Voices",
+      "stewardship": "Stewardship",
+      "donateCta": "Your Chapter"
+    }
+  },
+  "hero": {
+    "kicker": "An interactive impact story by the Educated Choices Program",
+    "title1": "Every day,",
+    "title2": "a student decides",
+    "title3": "what to eat.",
+    "lead": "Most were never taught what that choice does — to their body, to the planet, to the animals we share it with. This is the story of what happens when someone finally teaches them.",
+    "counterLabel": "learners reached so far",
+    "scrollHint": "Scroll to begin",
+    "eachDot": "Every particle on this screen represents learners who watched an ECP lesson."
+  },
+  "gap": {
+    "kicker": "Chapter 1 — The Gap",
+    "title": "Thousands of choices, zero lessons.",
+    "step1": "Before graduating, a young person will make roughly 15,000 food decisions — breakfast, lunch, snacks, dinner. Every single day.",
+    "step2": "Yet food's impact on health, climate, and animals is barely taught in school. In its place: marketing, habit, and a rising tide of online misinformation.",
+    "step3": "The result is a gap — between what people want to know about their food and the trustworthy facts available to them.",
+    "step4": "Closing that gap early, with science instead of judgment, is the entire mission of the Educated Choices Program.",
+    "trayCaption": "One lunch tray. One decision. Multiplied by millions of students, every day."
+  },
+  "spark": {
+    "kicker": "Chapter 2 — The Spark",
+    "title": "It started with one person, in one classroom.",
+    "intro": "In 2015, Lorena Mucke began presenting food education in local Atlanta schools. No office. No staff. A simple belief: education is the most powerful tool for change.",
+    "chartLabel": "Cumulative learners reached",
+    "chartNote": "Trajectory reconstructed from reported milestones (2024 and 2026 figures as reported by ECP).",
+    "milestones": {
+      "founding": {
+        "year": "2015",
+        "title": "The first classroom",
+        "text": "Lorena Mucke starts presenting in Atlanta schools, one class at a time."
+      },
+      "global": {
+        "year": "2020",
+        "title": "Going global",
+        "text": "Free digital presentations carry the program far beyond Georgia — no cost, no barriers, just internet access."
+      },
+      "library": {
+        "year": "2024",
+        "title": "The library opens",
+        "text": "An on-demand video library launches, putting every education package one click away, 24/7."
+      },
+      "study": {
+        "year": "2024",
+        "title": "Science checks the work",
+        "text": "Researchers at the Universities of Edinburgh and Cambridge independently test whether ECP presentations change real food choices."
+      },
+      "decade": {
+        "year": "2025",
+        "title": "A decade of transformation",
+        "text": "Ten years in: 21+ education packages, Spanish-language expansion, and a new series for learners aged 8–11."
+      },
+      "today": {
+        "year": "Today",
+        "title": "3.79 million and counting",
+        "text": "From one person to a global program — still free, still science-based, still growing."
+      }
+    },
+    "statPackages": "education packages",
+    "statPackagesNote": "videos, lesson plans, quizzes & more — always free",
+    "statLanguages": "languages",
+    "statLanguagesNote": "narration & captions, from Spanish to Hindi"
+  },
+  "world": {
+    "kicker": "Chapter 3 — A World of Classrooms",
+    "title": "From Atlanta to 77 countries and territories.",
+    "step1": "It spread across the Americas first — from the United States and Canada down through Mexico, Central America, and nearly every country in South America.",
+    "step2": "Then Europe and Africa: classrooms in Spain, Poland, and Ukraine; communities in Kenya, Nigeria, and The Gambia.",
+    "step3": "Then Asia and Oceania — India, Japan, Indonesia, Australia. In Q1 2026 alone, Slovakia, Lebanon, and Greece became countries #72, #73, and #74.",
+    "step4": "Today, ECP materials are used in 77 countries and territories, in English and Spanish with captions in 10+ languages. Anyone, anywhere, can book them for free.",
+    "mapCountLabel": "countries & territories reached",
+    "hoverHint": "Hover over a highlighted country"
+  },
+  "proof": {
+    "kicker": "Chapter 4 — But Does It Work?",
+    "title": "Don't take their word for it. Take the data.",
+    "expIntro": "In 2024, researchers ran a real-world experiment at the University of Edinburgh.",
+    "expStep1": "Students attended a presentation. Half saw ECP's \"The Planet and Our Plates\". The other half — the control group — saw a presentation with nothing to do with food.",
+    "expStep2": "Afterwards, every student got a voucher for a free meal at a local café. What they didn't know: their meal choices were being recorded.",
+    "expStep3": "The students who saw the ECP presentation chose meat-free meals almost 2.5 times as often. The difference was statistically significant.",
+    "expChartTitle": "Who chose the meat-free meal?",
+    "expTreatment": "Watched ECP presentation",
+    "expControl": "Control group",
+    "expSource": "Real food choice study by Bryant Research at the University of Edinburgh, n=39. A parallel study at the University of Cambridge also found statistically significant effects.",
+    "peerReviewed": "Peer-reviewed & independently tested",
+    "peerReviewedNote": "Universities of Edinburgh and Cambridge",
+    "gaugeTitle": "And it's not a one-off.",
+    "gaugeLabel": "of viewers intend to make plant-forward dietary changes after watching",
+    "gaugeNote": "n={{n}} surveyed between Feb 2024 and Mar 2026 · excludes viewers already fully plant-based",
+    "multiplierLabel": "increase in participants choosing plant-forward options after using ECP materials, in a recent study",
+    "whyTitle": "What moves people to change?",
+    "whyIntro": "When viewers explain their motivation, three reasons lead — the same three pillars in ECP's seal: personal health, the planet, and animals.",
+    "motivators": {
+      "title": "Top motivators for dietary change",
+      "health": "My health",
+      "environment": "The environment",
+      "animals": "The animals",
+      "foodSafety": "Food safety",
+      "savingMoney": "Saving money",
+      "taste": "Taste preference",
+      "foodSecurity": "Global food security"
+    },
+    "barriers": {
+      "title": "…and the barriers that remain",
+      "taste": "I like the taste of meat",
+      "family": "My family eats meat",
+      "cost": "Plant-based feels expensive",
+      "peers": "My friends eat meat",
+      "none": "No barriers"
+    },
+    "barriersNote": "Survey of 371 viewers, 2024 Annual Report. Knowing the barriers is how ECP designs what comes next."
+  },
+  "ripple": {
+    "kicker": "Chapter 5 — The Ripple",
+    "title": "One plate seems small. Millions are not.",
+    "intro": "When 90% of 3.7 million learners intend to eat differently, the ripples reach the atmosphere.",
+    "counterLabel": "kg of CO₂ emissions prevented every year",
+    "counterNote": "Estimated using diet impact statistics from Scarborough et al., 2014",
+    "equivIntro": "Every single year, that is roughly the same as…",
+    "equivCars": "cars taken off the road",
+    "equivFlights": "transatlantic round-trip flights not flown",
+    "equivTrees": "mature trees absorbing CO₂",
+    "closing": "No fleet was grounded and no forest was planted. People simply learned — and chose differently."
+  },
+  "voices": {
+    "kicker": "Chapter 6 — Voices",
+    "title": "Six months later, they still remember.",
+    "intro": "ECP follows up with learners long after the classroom lights come back on. This is what they say.",
+    "quotes": {
+      "power": {
+        "text": "It reframes personal power. Instead of feeling overwhelmed by global problems, you suddenly see that your daily habits actually matter. You don't walk away with guilt — you walk away with options.",
+        "who": "Learner, 6+ months after viewing"
+      },
+      "pollution": {
+        "text": "I didn't really know that raising animals for food creates pollution. I also now know that food can help or hurt my body.",
+        "who": "Student learner"
+      },
+      "lessMeat": {
+        "text": "One thing I changed as a result of what I saw is eating less meat and trying more plant-based foods.",
+        "who": "Learner, follow-up survey"
+      },
+      "wholefoods": {
+        "text": "One thing I changed is WHOLE FOODS! Consuming as much whole foods as possible.",
+        "who": "Learner, follow-up survey"
+      },
+      "redMeat": {
+        "text": "I've started to cut back on red meat and focused more on fruits and vegetables.",
+        "who": "Learner, follow-up survey"
+      },
+      "teacher": {
+        "text": "I thought the material was very professional and visually appealing. The students were engaged and it was a valuable lesson about the quality of food.",
+        "who": "Educator"
+      }
+    }
+  },
+  "stewardship": {
+    "kicker": "Chapter 7 — Radical Stewardship",
+    "title": "Where a donated dollar actually goes.",
+    "intro": "A fully remote team of just 11 people runs a program reaching millions — and opens its books to prove it.",
+    "donutTitle": "2024 expenses by category",
+    "categories": {
+      "education": "Education programs",
+      "operations": "Operations",
+      "fundraising": "Fundraising",
+      "livingLab": "Living Lab research"
+    },
+    "centsLabel": "of every dollar spent in 2024 went directly to education programs",
+    "teamLabel": "full-time staff, fully remote",
+    "costLabel": "≈ cost to reach one learner (Q1 2026 expenses ÷ reported learners)",
+    "badgesTitle": "Trusted by the people who rate nonprofits",
+    "badges": {
+      "charityNav": "Charity Navigator — 4 stars",
+      "candid": "Candid / GuideStar — Platinum",
+      "keeling": "Keeling Curve Prize Laureate",
+      "bestCharities": "America's Best Charities — Seal of Excellence",
+      "teacherPick": "We Are Teachers — Teacher Pick"
+    }
+  },
+  "donate": {
+    "kicker": "Chapter 8 — Your Chapter",
+    "title": "The next 3.7 million learners are waiting.",
+    "lead": "ECP is funded entirely by donations and private grants. Every education package is free for every classroom on Earth — because people like you pay it forward.",
+    "tiersTitle": "What your support translates to",
+    "tierNote": "Estimates based on Q1 2026 expenses (~${{cost}} per learner reached). Every contribution of any size helps.",
+    "tiers": {
+      "t1": {
+        "amount": "$27",
+        "label": "brings a full classroom of 30 students their first food-impact lesson"
+      },
+      "t2": {
+        "amount": "$90",
+        "label": "reaches 10 classrooms — about 300 students — with science-based food education"
+      },
+      "t3": {
+        "amount": "$450",
+        "label": "powers an entire school's worth of learners, with lesson plans in two languages"
+      }
+    },
+    "ctaDonate": "Donate to ECP",
+    "ctaReport": "Read the full impact report",
+    "ctaShare": "Share this story",
+    "shareCopied": "Link copied!",
+    "closing1": "Ten years ago, this story was one person and one classroom.",
+    "closing2": "The next chapter is written by whoever turns knowledge into action.",
+    "closing3": "That can be you. Right now.",
+    "orgLine": "Educated Choices Program is a registered 501(c)(3) nonprofit. EIN: 47-5137685."
+  },
+  "footer": {
+    "sources": "All figures from ECP's 2024 Annual Report, 2025 Impact Report, Q1 2026 Report, and ecprogram.org.",
+    "disclaimer": "This is an independent data-storytelling experience built with publicly available ECP impact data.",
+    "visit": "Visit ecprogram.org",
+    "library": "Explore the free library",
+    "reducedMotion": "Reduce motion"
+  }
+}
