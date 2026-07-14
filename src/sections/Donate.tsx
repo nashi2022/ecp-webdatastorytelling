@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
-import SectionHeader from "../components/SectionHeader";
 import Reveal from "../components/scroll/Reveal";
 import ParticleHero from "../components/charts/ParticleHero";
 import { links, costPerLearnerUSD } from "../data/impact";
@@ -44,11 +43,6 @@ export default function Donate() {
       />
 
       <div className="relative mx-auto max-w-5xl">
-        <SectionHeader
-          kicker={t("donate.kicker")}
-          title={t("donate.title")}
-          align="center"
-        />
         <Reveal className="mx-auto mb-16 max-w-2xl text-center">
           <p className="text-lg leading-relaxed text-paper/85 md:text-2xl">
             {t("donate.lead")}

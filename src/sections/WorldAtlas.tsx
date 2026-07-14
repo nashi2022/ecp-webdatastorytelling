@@ -1,5 +1,4 @@
 import { useTranslation } from "react-i18next";
-import SectionHeader from "../components/SectionHeader";
 import StepText from "../components/scroll/StepText";
 import { useStepIndex } from "../components/scroll/useStepIndex";
 import WorldMap from "../components/charts/WorldMap";
@@ -29,8 +28,6 @@ export default function WorldAtlas() {
   return (
     <section id="world" className="relative bg-navy-950 px-4 pt-24 md:px-10">
       <div className="mx-auto max-w-7xl">
-        <SectionHeader kicker={t("world.kicker")} title={t("world.title")} />
-
         <div ref={containerRef} className="relative md:grid md:grid-cols-[1fr_2fr] md:gap-8">
           {/* sticky map (first in DOM so it pins behind steps on mobile) */}
           <div className="sticky top-0 z-0 flex h-svh flex-col items-center justify-center md:order-2">

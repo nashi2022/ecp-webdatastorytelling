@@ -1,5 +1,4 @@
 import { useTranslation } from "react-i18next";
-import SectionHeader from "../components/SectionHeader";
 import Reveal from "../components/scroll/Reveal";
 import StepText from "../components/scroll/StepText";
 import { useStepIndex } from "../components/scroll/useStepIndex";
@@ -25,8 +24,6 @@ export default function Proof() {
   return (
     <section id="proof" className="relative bg-navy-900 px-4 pt-24 md:px-10">
       <div className="mx-auto max-w-6xl">
-        <SectionHeader kicker={t("proof.kicker")} title={t("proof.title")} />
-
         <Reveal className="mb-4 max-w-2xl">
           <p className="text-lg leading-relaxed text-paper/85 md:text-2xl">
             {t("proof.expIntro")}

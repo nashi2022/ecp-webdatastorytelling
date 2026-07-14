@@ -1,5 +1,4 @@
 import { useTranslation } from "react-i18next";
-import SectionHeader from "../components/SectionHeader";
 import Reveal from "../components/scroll/Reveal";
 import { useStepIndex } from "../components/scroll/useStepIndex";
 import GrowthChart from "../components/charts/GrowthChart";
@@ -16,8 +15,6 @@ export default function Spark() {
   return (
     <section id="spark" className="relative bg-navy-900 px-4 pt-24 md:px-10">
       <div className="mx-auto max-w-6xl">
-        <SectionHeader kicker={t("spark.kicker")} title={t("spark.title")} />
-
         <Reveal className="mb-16 grid items-center gap-8 md:grid-cols-[240px_1fr]">
           <img
             src="/images/lorena.jpg"

@@ -1,5 +1,4 @@
 import { useTranslation } from "react-i18next";
-import SectionHeader from "../components/SectionHeader";
 import Reveal from "../components/scroll/Reveal";
 import Donut from "../components/charts/Donut";
 import { budget2024, headline, costPerLearnerUSD } from "../data/impact";
@@ -29,10 +28,6 @@ export default function Stewardship() {
       className="relative bg-navy-950 px-4 pt-24 pb-24 md:px-10"
     >
       <div className="mx-auto max-w-6xl">
-        <SectionHeader
-          kicker={t("stewardship.kicker")}
-          title={t("stewardship.title")}
-        />
         <Reveal className="mb-14 max-w-2xl">
           <p className="text-lg leading-relaxed text-paper/80 md:text-xl">
             {t("stewardship.intro")}

@@ -1,5 +1,4 @@
 import { useTranslation } from "react-i18next";
-import SectionHeader from "../components/SectionHeader";
 import StepText from "../components/scroll/StepText";
 import { useStepIndex } from "../components/scroll/useStepIndex";
 
@@ -18,8 +17,6 @@ export default function Gap() {
   return (
     <section id="gap" className="relative bg-navy-950 px-4 pt-24 md:px-10">
       <div className="mx-auto max-w-6xl">
-        <SectionHeader kicker={t("gap.kicker")} title={t("gap.title")} />
-
         <div ref={containerRef} className="relative md:grid md:grid-cols-2 md:gap-10">
           {/* sticky visual */}
           <div className="sticky top-0 flex h-svh items-center justify-center md:order-2">

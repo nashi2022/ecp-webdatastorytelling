@@ -1,5 +1,4 @@
 import { useTranslation } from "react-i18next";
-import SectionHeader from "../components/SectionHeader";
 import Reveal from "../components/scroll/Reveal";
 import { quoteKeys } from "../data/impact";
 
@@ -18,7 +17,6 @@ export default function Voices() {
   return (
     <section id="voices" className="relative bg-navy-900 px-4 pt-24 pb-24 md:px-10">
       <div className="mx-auto max-w-6xl">
-        <SectionHeader kicker={t("voices.kicker")} title={t("voices.title")} />
         <Reveal className="mb-14 max-w-2xl">
           <p className="text-lg leading-relaxed text-paper/80 md:text-xl">
             {t("voices.intro")}

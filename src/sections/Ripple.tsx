@@ -1,5 +1,4 @@
 import { useTranslation } from "react-i18next";
-import SectionHeader from "../components/SectionHeader";
 import Reveal from "../components/scroll/Reveal";
 import { useCountUp } from "../components/scroll/useCountUp";
 import { headline, co2Equivalents } from "../data/impact";
@@ -64,12 +63,6 @@ export default function Ripple() {
       `}</style>
 
       <div className="relative mx-auto max-w-5xl">
-        <SectionHeader
-          kicker={t("ripple.kicker")}
-          title={t("ripple.title")}
-          align="center"
-        />
-
         <Reveal className="mx-auto mb-16 max-w-2xl text-center">
           <p className="text-lg leading-relaxed text-paper/80 md:text-2xl">
             {t("ripple.intro")}
