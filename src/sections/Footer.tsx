@@ -41,12 +41,6 @@ export default function Footer() {
             {t("footer.reducedMotion")}
           </label>
         </div>
-        <p className="max-w-2xl text-xs leading-relaxed text-paper/40">
-          {t("footer.sources")}
-        </p>
-        <p className="max-w-2xl text-xs leading-relaxed text-paper/30">
-          {t("footer.disclaimer")}
-        </p>
         <p className="mt-2 text-[11px] tracking-[0.18em] text-paper/35 uppercase">
           {t("footer.builtBy")}{" "}
           <span className="font-bold tracking-[0.12em] text-gold-500/80 normal-case">
